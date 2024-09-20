@@ -1,3 +1,3 @@
-# Project
+# Centsible
 
 Our vision is to empower college students to take charge of their finances through our app, 'Centsible.' We are dedicated to creating a student-centric platform that facilitates budgeting, making it easy and accessible for young adults navigating their financial journeys. By tracking income, analyzing spending habits, and providing a personalized budgeting system tailored specifically for students, we aim to simplify budgeting. We envision 'Centsible' as a valuable tool that fosters financial literacy and responsible spending, helping students achieve their budgeting goals and lay the groundwork for a secure financial future.
