@@ -1,8 +1,22 @@
 # Centsible
 
-At Centsible, we envision a world where every college student feels empowered and confident in managing their finances. By offering features such as real-time tracking of income and expenses, personalized spending insights, monthly spending trackings, and goal-setting capabilities shared with friends, 'Centsible' will transform budgeting from a daunting, boring task into a manageable and even enjoyable experience!
+Do you remember how much you spent grabbing a quick bite on campus last week? What about the spontaneous $5 spent on a Calvin event? With so many small expenses piling up, it’s easy to lose track of your finances as a busy student.
 
-The phrase 'to keep it short and sweet' comes to mind. 
-Other budgetting tools out there make you pay for Premium account, have overly complicated investment, track Crypto, make you subscribe for 'advanced' reportings and analytics.. all good, professional things but do college kids really need that at the present moment!? Our 'Centsible' app- which is highly centered around college kids will have all the necessary implementations 'sweet' and 'short' in a sense that we will be distinguishing the real necessities to extra add-ins that many other apps tend to have. Thus, it will be manageable and easy to work with, only focusing on what college kids might need.(INTERACTIVE: easy and manageable, very interactive and highly user-friendly, ability to track income & expenses. RESPONSIVE: alerts & notifications, goal setting & budget planning, monthly reports & analyatics. SECURE: possible social sharing between friends, implementation of actual cards) By prioritizing accessibility and user experience for college students, Centsible aims to be the go-to financial companion for students, helping them achieve their budgeting goals and build a foundation for a secure financial future.
+At Centsible, we believe that every college student deserves the confidence to take control of their finances without feeling overwhelmed. Our app is designed to help you manage not only the big-ticket expenses like tuition and rent but also the smaller, everyday costs that can add up quickly—like meals, books, and entertainment.
 
+Centsible goes beyond just monthly budgeting—it's designed with the academic semester in mind. You can set semester-long budget goals, ensuring you manage your finances over the full course of your studies. With real-time expense tracking, personalized spending insights, and budget-friendly notifications, Centsible keeps you aware of where your money is going throughout the semester. We send smart alerts when you're nearing your budget limits or when you reach your savings goals, so you can make informed decisions without the hassle.
+
+Centsible is tailored specifically for college life, offering a simplified, intuitive experience focused only on what students need. Unlike other budgeting tools that are complex or require costly subscriptions, Centsible prioritizes ease of use and accessibility. From automatic spending categorization to simple semester-focused reports, we turn budgeting from a dreaded chore into a straightforward part of student life.
+
+Our mission is to create an empowering, easy-to-use budgeting tool that helps college students not only manage their day-to-day spending but also build lifelong financial habits—all while keeping semester-specific goals in focus.
+
+Together, let’s be Centsible!
+
+Team A:
+- Esther Asuquo
+- Alina Sainju
+- Ashley Spronk
+- Alisha Start
+- Hannah Yoo
+- Alvin Waigwa
     
